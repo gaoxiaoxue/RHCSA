@@ -4,7 +4,7 @@
 
 * 最低内存4G I5以上CPU
 
-# 建议内存8G I7CPU 硬盘SSD
+* 建议内存8G I7CPU 硬盘SSD
 
 ### 一.安装VMware Fusion
 
