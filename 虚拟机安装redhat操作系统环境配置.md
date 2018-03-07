@@ -63,12 +63,4 @@
  
  6.设置管理员密码，五以上的版本必须有一个普通用户
  
- * 2.打开terminal
 
-<pre> mount /dev/sr0 /mnt
-
- yum-config-manager --add-repo=file:///mnt
-
- echo "gpgcheck=0">> /etc/yum.repos.d/mnt.repo</pre>
-
-* 3.关机然后做一个快照 防止毁坏
