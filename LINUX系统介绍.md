@@ -1,5 +1,5 @@
 
-# LINUX系统介绍
+## 计算机发展史
 * 1.1946年第一台计算机,计算能力5000次每秒,操作系统发展缓慢(分时操作系统)
 
 * 2.1965年 AT&T的Bell实验室，MIT和GE联合研发了多任务多用户多继承的操作系统 Multcs项目(由mult和cs(computer system)组成) 1969年取消
@@ -45,3 +45,44 @@
 * 23.开源GPL协定，即你只要有一行代码是我的开源的 你就必须把你写的都对外开放，GPLv1版本(非常严格) GPLv2版本，开源怎么赚钱：服务费二次开发定制 即开源不代表免费
 
 * 24.GUN/LINUX RHEL7(RedHat Enterprise Linux)
+
+### Linux版本介绍
+
+1.官网：www.kernel.org
+
+2.内核版本说明4.9.10 4主版本号 9次版本号 10修订版本（改了多少次bug）
+
+3.在内核的主版本3之前，次版本号偶数为稳定版本，奇数为不稳定版本（测试版本）
+
+4.Linux发行版本：
+
+    debian(得编操作系统)非常重要的发行版本->Ubuntu(乌班图)衍生版本
+
+    slackware发行版本
+
+    RedHat发行版本（收费）->CentOs衍生版本(完全相同)
+
+    Suse发行版本（收费）->openSuse
+
+5.RHEL7(RedHat Enterprise Linux)企业版系列
+
+6.RHEL与RedHat系列的区别：
+
+redhat系列 6 7 8 9是完整版系列
+
+之后拆分成两个系列
+
+fedora系列（完整版的红帽系统）红帽不对它维护，直测试，一两个月更新一次，频率极高，有好的就丢到rhel中发行
+
+RHEL系列（服务器版本）
+
+7.RHEL 5 6 7 大约3～5年更新一次版本，区别很大
+
+8.RHEL 5 使用oracle ；RHEL 6 7使用oracle 没有5稳定；Oracle linux就是RHEL 5
+
+9.OpenStack项目(主流公司都投入大量资金到这个项目)
+
+10.淘宝和微软都用的linux操作系统
+
+
+
